@@ -1,0 +1,10 @@
+.claude/
+Stable-Preconditioned-Solvers/
+
+# Generated Python and native-extension artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# OS metadata
+.DS_Store
